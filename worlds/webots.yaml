@@ -1,0 +1,3 @@
+world: worlds/agv_world.wbt
+controller: agv_controller
+language: python
